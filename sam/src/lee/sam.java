@@ -27,7 +27,8 @@ public class sam{
 	JMenu file = new JMenu("File");
 	JMenu edit = new JMenu("Edit");
 	
-	System.out.println("hehe");
+	System.out.println("haha");
+	System.out.println("hoho");
 	
 	Icon newIcon = new ImageIcon("ico/new.png");
 	JMenuItem newItem = new JMenuItem("New", newIcon);
