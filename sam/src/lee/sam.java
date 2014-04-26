@@ -30,8 +30,6 @@ public class sam{
 	System.out.println("hehe");
 	System.out.println("master");
 	
-	this should be resetted.
-	
 	Icon newIcon = new ImageIcon("ico/new.png");
 	JMenuItem newItem = new JMenuItem("New", newIcon);
 	
