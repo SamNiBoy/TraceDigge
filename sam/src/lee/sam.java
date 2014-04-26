@@ -32,6 +32,7 @@ public class sam{
 	
 	this should be resetted.
 	
+	aaaeeeeeff;
 	Icon newIcon = new ImageIcon("ico/new.png");
 	JMenuItem newItem = new JMenuItem("New", newIcon);
 	
