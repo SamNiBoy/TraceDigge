@@ -28,6 +28,7 @@ public class sam{
 	JMenu edit = new JMenu("Edit");
 	
 	System.out.println("hehe");
+	System.out.println("master");
 	
 	Icon newIcon = new ImageIcon("ico/new.png");
 	JMenuItem newItem = new JMenuItem("New", newIcon);
